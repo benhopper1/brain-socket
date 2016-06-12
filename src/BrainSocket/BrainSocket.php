@@ -29,6 +29,7 @@ class BrainSocket extends Command {
 	public function __construct()
 	{
 		parent::__construct();
+		\Log::info('Ben Change', ['cdcdcddc'=>'Styyyyyx']);
 	}
 
 	/**
